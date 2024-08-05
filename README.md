@@ -1,10 +1,10 @@
-# Individual Tree Dectection From Terrestrial Laser Scanning Dataset
+# Individual Tree Detection From Terrestrial Laser Scanning Dataset
 
-![Alt text](before%20segmentation.jpg)
+<img src="before%20segmentation.jpg" alt="Before Segmentation" width="200"/>
 
-![Alt text](after%20segmentation.jpg)
+<img src="after%20segmentation.jpg" alt="After Segmentation" width="200"/>
 
-![Alt text](individual%20detected%20tree.jpg)
+<img src="individual%20detected%20tree.jpg" alt="Individual Detected Tree" width="200"/>
 
 ## Project Description
 
@@ -15,5 +15,3 @@ TreeSegg is a project focused on using the DBSCAN clustering algorithm to segmen
 - **DBSCAN Algorithm**: Used for segmenting point cloud data to detect individual trees.
 - **Geometric Feature Extraction**: Extracts features like tree height, crown diameter, and DBH for each segmented tree.
 - **Above Ground Biomass (AGB) Calculation**: Provides data that can be used to calculate AGB, essential for understanding the carbon cycle and forest management.
-
-
