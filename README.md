@@ -1,10 +1,10 @@
 # Individual Tree Detection From Terrestrial Laser Scanning Dataset
 
-<img src="before%20segmentation.jpg" alt="Before Segmentation" width="200"/>
+<img src="before%20segmentation.jpg" alt="Before Segmentation" width="400"/>
 
-<img src="after%20segmentation.jpg" alt="After Segmentation" width="200"/>
+<img src="after%20segmentation.jpg" alt="After Segmentation" width="400"/>
 
-<img src="individual%20detected%20tree.jpg" alt="Individual Detected Tree" width="200"/>
+<img src="individual%20detected%20tree.jpg" alt="Individual Detected Tree" width="400"/>
 
 ## Project Description
 
